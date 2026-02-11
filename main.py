@@ -23,7 +23,3 @@ class Rectangle:
         area = width * height
 
         return area
-
-rectangle = Rectangle(3, 1, 6, 4)
-
-print(rectangle.get_area())
